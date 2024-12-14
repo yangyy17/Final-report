@@ -12,3 +12,9 @@ Can we conclude that there is no relationship between Nitric oxide concentration
 What is the impact of an additional weighted distance to the five Boston employment centres on the median value of owner-occupied homes?
 
 Using the appropriate graphs and charts, generate basic statistics and visualizations that you think will be useful for the upper management to give them important insight given the question they are asking, in your graphs, include an explanation of each statistic.
+# Import libraries.
+import numpy as np
+import pandas as pd
+import scipy.stats as stats
+import matplotlib.pyplot as plt
+import seaborn as sns
